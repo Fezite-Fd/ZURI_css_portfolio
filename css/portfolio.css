@@ -12,7 +12,10 @@
 		/*display: 
 		grid; grid-template-rows: 10% 20% 30% 25% 15% 5%;*/
 	 }
-
+.search {
+	margin-top:-10px;
+	margin-left: 115px;
+}
 .icon { width:250px;
 		height: 30px; 
 		float: left; }
